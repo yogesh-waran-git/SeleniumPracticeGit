@@ -10,5 +10,4 @@ public class Basic {
 	public void testMethod(){
 		
 	}
-	
 }
